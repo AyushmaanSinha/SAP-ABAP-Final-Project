@@ -27,11 +27,11 @@ This project demonstrates the implementation of a fully integrated SAP ERP syste
 
 The organization faced several key challenges:
 
-- ❌ Disconnected financial systems (no real-time reporting)  
-- ❌ Manual procurement via spreadsheets  
-- ❌ Inefficient sales order handling (email/phone-based)  
-- ❌ No integration between departments  
-- ❌ Compliance risks due to lack of audit trails  
+-  Disconnected financial systems (no real-time reporting)  
+-  Manual procurement via spreadsheets  
+-  Inefficient sales order handling (email/phone-based)  
+-  No integration between departments  
+-  Compliance risks due to lack of audit trails  
 
 ---
 
